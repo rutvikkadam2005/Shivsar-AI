@@ -1,0 +1,22 @@
+[project]
+name = "rag-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "chromadb>=1.0.15",
+    "fpdf>=1.7.2",
+    "fpdf2>=2.8.3",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-openai>=0.3.27",
+    "openai>=1.93.0",
+    "pdfkit>=1.0.0",
+    "pypdf>=5.7.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "tiktoken>=0.9.0",
+]
